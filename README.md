@@ -1,4 +1,5 @@
 # persuasion-explained
+
 not for code; this is actually a text course for persuasion in the making.
 
 the deal is, if you contribute, it'll always be accessible to you.
@@ -9,15 +10,21 @@ The name of the game is to both consciously understand persuasion (if you want t
 
 ## folder structure
 
+/principles
+--/principleName
+--/--principleExample.txt
+--/--exercises.txt
 /techniqueName
 --explanation.txt
 --technique.txt
 --exercises.txt
 --real_world_examples.docx
+/teachings (written works by Scott)
 /sales [maybe]
 /politics [maybe]
+/caseStudies
 
-*just a proposal*
+_just a proposal_
 
 ### explanations
 
@@ -31,28 +38,28 @@ the technique should be explained, ideally with a "simplified" version, perhaps 
 
 ### exercises
 
-we're gonna want exercises! Ideally, an exercise is: 
+we're gonna want exercises! Ideally, an exercise is:
 
-(1) something you can repeatably do *without* putting great effort into creating some difficult-to-create scenario for practice.
+(1) something you can repeatably do _without_ putting great effort into creating some difficult-to-create scenario for practice.
 
-(2) something you can *measure*. did the muse for your persuasion switch opinions? Adopt a new behavior? Visibly feel a certain way? Fork over a fat stack of money?
+(2) something you can _measure_. did the muse for your persuasion switch opinions? Adopt a new behavior? Visibly feel a certain way? Fork over a fat stack of money?
 
 ### examples
 
 real world examples of persuasion. Hypothetical (imaginary) ones may be useful for demonstration.
 
-
 # The Feature Creep Rule
 
-Over time, the effectiveness of Adams's teachings *will* be polluted *if* the program allows "contributions" or "advancements" in persuasion to be added over time.
+Over time, the effectiveness of Adams's teachings _will_ be polluted _if_ the program allows "contributions" or "advancements" in persuasion to be added over time.
 
-This would be the wrong move, a pattern to be *avoided*, and I'll tell you why:
+This would be the wrong move, a pattern to be _avoided_, and I'll tell you why:
 
-Scott's teachings work, plain and simple. The same can be said for the principles of copywriting and in-person selling. What works well today *will also work* in 2400 A.D.
+Scott's teachings work, plain and simple. The same can be said for the principles of copywriting and in-person selling. What works well today _will also work_ in 2400 A.D.
 
 So it would be a mistake to try to expand on what Scott teaches. He already knows what works and told us precisely what those workings are; don't change it.
 
-I will do my best to identify  the best ways to acquire the specific skills Scott promotes and add them here as exercises.
+I will do my best to identify the best ways to acquire the specific skills Scott promotes and add them here as exercises.
 
 In sum: NO FEATURE CREEP. Don't add to the scope of the texts. If it isn't in Win Bigly, Influence, Impossible to Ignore, and the other Persuasion Reading List texts, we won't be adding it. (I will veto this as necessary.)
 
+[edit, just a bit later] I found an exception. Predictably, if this repository becomes popular, people will learn to identify common patterns and how to respond to them. List persuasion for instance, is commonly recognized. So we can add common responses and how to respond to them as time goes on.
