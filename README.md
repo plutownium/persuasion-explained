@@ -42,3 +42,17 @@ we're gonna want exercises! Ideally, an exercise is:
 real world examples of persuasion. Hypothetical (imaginary) ones may be useful for demonstration.
 
 
+# The Feature Creep Rule
+
+Over time, the effectiveness of Adams's teachings *will* be polluted *if* the program allows "contributions" or "advancements" in persuasion to be added over time.
+
+This would be the wrong move, a pattern to be *avoided*, and I'll tell you why:
+
+Scott's teachings work, plain and simple. The same can be said for the principles of copywriting and in-person selling. What works well today *will also work* in 2400 A.D.
+
+So it would be a mistake to try to expand on what Scott teaches. He already knows what works and told us precisely what those workings are; don't change it.
+
+I will do my best to identify  the best ways to acquire the specific skills Scott promotes and add them here as exercises.
+
+In sum: NO FEATURE CREEP. Don't add to the scope of the texts. If it isn't in Win Bigly, Influence, Impossible to Ignore, and the other Persuasion Reading List texts, we won't be adding it. (I will veto this as necessary.)
+
